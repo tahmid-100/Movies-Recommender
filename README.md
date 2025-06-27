@@ -56,6 +56,9 @@ We processed a dataset of **10,000 movies** from TMDB and selected important fea
 
 ![App Screenshot](assets/1.png)
 
+![App Screenshot](assets/2.png)
+
+![App Screenshot](assets/3.png)
 
 
 
