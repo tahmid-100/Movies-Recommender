@@ -54,7 +54,7 @@ We processed a dataset of **10,000 movies** from TMDB and selected important fea
 
 ## 🖼️ Demo Screenshot
 
-![App Screenshot](assets/app_screenshot.png)
+![App Screenshot](assets/1.png)
 
 
 
